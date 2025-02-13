@@ -1,5 +1,5 @@
 # Prologue
-    Git is a tooling to support developer in various way. For example : code control version , ability to co-ordinate code with team
+Git is a tooling to support developer in various way. For example : code control version , ability to co-ordinate code with team
 
 ## Preparation
 1. Register [Github](https://github.com/)
@@ -10,7 +10,7 @@
     - GitHub Repositories
 
 ## SSH key
-    SSH Key เป็นกุญแจสำหรับเข้าใช้ระบบโดยไม่ต้องใช้รหัสผ่าน มีการสื่อสารแบบเข้ารหัส นิยมใช้กับ ssh บน Linux จะเก็บ Private Key ไว้ในเครื่อง Desktop/Laptop ที่เราใช้งานอยู่(Local) ส่วนเซิร์ฟเวอร์ (Remote) ที่จะเข้าใช้เก็บ Public Key
+SSH Key เป็นกุญแจสำหรับเข้าใช้ระบบโดยไม่ต้องใช้รหัสผ่าน มีการสื่อสารแบบเข้ารหัส นิยมใช้กับ ssh บน Linux จะเก็บ Private Key ไว้ในเครื่อง Desktop/Laptop ที่เราใช้งานอยู่(Local) ส่วนเซิร์ฟเวอร์ (Remote) ที่จะเข้าใช้เก็บ Public Key
 ซึ่งสามารถศึกษาเรื่องการเข้ารหัสเพิ่มเติมได้ทางนี้ [4 Cryptography Concept](https://medium.com/scb-techx/4-cryptography-concept-%E0%B8%97%E0%B8%B5%E0%B9%88-developer-%E0%B8%97%E0%B8%B8%E0%B8%81%E0%B8%84%E0%B8%99%E0%B8%84%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%B9%E0%B9%89-15a806b6771d)
 
 ### การสร้าง SSH key
